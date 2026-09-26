@@ -44,7 +44,7 @@ window and origin.
 
 Open, create, edit, and save Butterfly documents from within a Joplin panel.
 
-[**Learn more**](integrations/joplin/README.md) ·
+[**Learn more**](integrations/joplin/README.md)
 
 ### 💎 Obsidian
 
