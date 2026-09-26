@@ -1,7 +1,5 @@
-# Butterfly for Joplin
+# Joplin Plugin
 
-This directory reserves the Joplin integration in the monorepo. It is not
-implemented, installed, built, or released yet.
+This is your new Joplin plugin. It is suggested that you use this README file to document your plugin.
 
-When development starts, add its package here and opt it into the root pnpm
-workspace and CI explicitly.
+For information on how to build or publish the plugin, please see [GENERATOR_DOC.md](./GENERATOR_DOC.md)

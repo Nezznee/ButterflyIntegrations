@@ -1,0 +1,6 @@
+{
+  "extraScripts": [
+    "contentScripts/webview.ts",
+    "views/panel.ts"
+  ]
+}
