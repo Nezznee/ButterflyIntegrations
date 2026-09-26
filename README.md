@@ -42,8 +42,9 @@ window and origin.
 
 ### 📝 Joplin
 
-Planned. The directory is reserved, but the integration is not implemented or
-built yet.
+Open, create, edit, and save Butterfly documents from within a Joplin panel.
+
+[**Learn more**](integrations/joplin/README.md) ·
 
 ### 💎 Obsidian
 

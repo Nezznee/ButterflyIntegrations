@@ -12,6 +12,7 @@ The plugin is based on the official [Joplin plugin template](https://github.com/
 ## Build
 
 ```bash
+corepack enable
 pnpm install --frozen-lockfile
 cd integrations/joplin
 pnpm run dist
